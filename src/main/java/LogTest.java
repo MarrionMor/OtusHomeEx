@@ -9,3 +9,4 @@ public class LogTest {
         logger.info("OS: {}", System.getProperty("os_name"));
     }
 }
+
